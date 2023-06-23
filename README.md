@@ -1,6 +1,4 @@
 Diyetisyen Tuğçe Sert - Test Automation
-
-Project Name
 ============
 
 This project includes automated tests for the home page of the website of Diyetisyen Tuğçe Sert.
